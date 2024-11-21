@@ -11,7 +11,6 @@ This repository contains the implementation of **DeepTactile**, Event-driven Tac
 - **Dataset Support**: Pre-configured support for ST-MNIST tactile dataset and custom tactile datasets.
 - **Modular Design**: Components designed to be extensible for new tasks or datasets.
 
----
 
 ## File Structure
 
