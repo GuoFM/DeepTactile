@@ -48,7 +48,7 @@ Ensure you have the following installed:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/DeepTactile.git
+    git clone https://github.com/GuoFM/DeepTactile.git
     cd DeepTactile
     ```
 
