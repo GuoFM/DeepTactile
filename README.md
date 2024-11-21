@@ -120,7 +120,16 @@ print(graph)
 If you use this code, please cite the following paper:
 
 ```
-Event-driven Tactile Sensing With Dense Spiking Graph Neural Networks
+@article{guo2024eventdriven,
+  title={Event-driven Tactile Sensing With Dense Spiking Graph Neural Networks},
+  author={Guo, Fangming and Long, Xianlei and Yu, Fangwen and Li, Mingyan and Chen, Chao and Yan, Jinjin and Li, Yan and Gu, Fuqiang and Guo, Songtao},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  volume={XX},
+  number={XX},
+  pages={XXX--XXX},
+  year={2024},
+  publisher={IEEE}
+}
 ```
 
 
