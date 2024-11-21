@@ -18,7 +18,7 @@ from model import DeepTactile
 from torch import nn
 import numpy as np
 
-# Dataset class (simplified from original code)
+# Dataset class 
 class TactileDataset(torch.utils.data.Dataset):
     def __init__(self, data_path, train=True):
         self.data_path = os.path.join(data_path, 'train' if train else 'test')
