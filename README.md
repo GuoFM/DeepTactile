@@ -3,6 +3,7 @@
 
 This repository contains the implementation of **DeepTactile**, Event-driven Tactile Sensing With Dense Spiking Graph Neural Networks. The project includes components for graph construction, tactile data processing, and model training on datasets like ST-MNIST.
 
+![image](https://github.com/user-attachments/assets/7ea28064-6f07-450b-88c9-89439a019716)
 
 ## Features
 
